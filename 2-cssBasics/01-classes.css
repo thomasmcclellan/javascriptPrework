@@ -1,0 +1,21 @@
+body {
+  background-color: lightskyblue;
+}
+
+.css-classes {
+  background-color: lightsalmon;
+}
+
+.css-classes h1{
+  font-size: 18px;
+}
+
+.css-classes p{
+  font-size: 16px;
+  color: green;
+
+}
+
+.css-classes li{
+  color: navy;
+}
